@@ -26,3 +26,4 @@ scientist = Position('геннадий', 'разумов', 'ученый', {'wag
 print(welder.get_full_name(), welder.get_total_income())  # Иван Васильев 65000
 print(driver.get_full_name(), driver.get_total_income())  # Петр Николаев 37500
 print(scientist.get_full_name(), scientist.get_total_income())  # Геннадий Разумов 175000
+#

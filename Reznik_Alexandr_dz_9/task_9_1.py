@@ -29,3 +29,4 @@ traffic.running()
 # yellow 2
 # Светофор переключается
 # green 3
+#
